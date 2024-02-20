@@ -1,0 +1,134 @@
+
+h2 {
+    color: #000;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+h1 {
+    color: #525252;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.nav-link {
+    text-decoration: none;
+    color: #525252;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.title-button-outlined {
+    color: #525252;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+body {
+    font-family: Inter;
+}
+
+.btn-primary {
+    padding: 12px 24px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    color: #FFF;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    border-radius: 8px;
+    background: #008ECC;
+}
+
+.btn-secondary {
+    border-radius: 8px;
+    border: 2px solid #008ECC;
+    display: flex;
+    padding: 0px 36px;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    color: #008ECC;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.btn-outline-primary {
+    border-color: 2px solid #008ECC !important;
+    color: #008ECC !important;
+}
+
+.btn-outline-primary:hover {
+    color: white !important;
+    background-color: #0160A0 !important;
+    border: none !important;
+}
+
+label {
+    padding-bottom: 8px;
+    
+}
+
+input {
+    margin-bottom: 20px !important;
+    border-radius: 4px !important;
+    border: 1px solid #525252 !important;
+}
+
+input:focus {
+    border: 2px solid #008ECC !important;
+}
+
+select {
+    margin-bottom: 20px;
+    border-radius: 4px !important;
+    border: 1px solid #525252 !important;
+}
+
+h4 {
+    color: #008ECC;
+    font-family: Inter;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+h5 {
+    color: #000;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+span {
+    color: #525252;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.hand {
+    cursor: pointer !important;
+}
+
+img {
+    margin: 24px;
+}
